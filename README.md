@@ -28,6 +28,11 @@ Minestom is an open-source library that enables developers to create their own M
 
 *Reusable code that pairs very well with Minestom. If it offers extensions, it's side effect free to the limit of logging.*
 
+- [Minestom173WorldGen](https://github.com/RealGatt/Minestom173WorldGen) - A Beta 1.7.3 world generator implementation.
+- [minestom-ca](https://github.com/GoldenStack/minestom-ca) - Implementing vanilla Minecraft with cellular automata.
+- [window](https://github.com/GoldenStack/window) - Useful API for Minestom inventories.
+- [polar](https://github.com/hollow-cube/polar) - A world format for Minestom designed for simpler and smaller handling of small worlds.
+- [common](https://github.com/hollow-cube/common) - A library of common systems for Minestom such as schematics, world management, chat, and so on.
 - [MineScreen](https://github.com/kiip1/MineScreen) - A Java library for simplifying UI development.
 - [hephaestus-engine](https://github.com/unnamed/hephaestus-engine) - Render, animate and interact with custom entity models.
 - [WorldSeedEntityEngine](https://github.com/WorldSeedGames/WorldSeedEntityEngine) - Straightforward multi-part entity construction.
@@ -57,6 +62,8 @@ Minestom is an open-source library that enables developers to create their own M
 
 *Implementation of Minestom that allow for server administrators to get a server up and running*
 
+- [HypixelSkyBlock](https://github.com/Swofty-Developments/HypixelSkyBlock) - A 1.8 to 1.20.4 recreation of HypixelSkyBlock.
+- [BlueDragonMC/Server](https://github.com/BlueDragonMC/Server) - BlueDragon's Minestom implementation used for creating game types.
 - [microstom](https://github.com/KlainStom/microstom) - A lightweight jar with only the smallest of defauts.
 - [Sabre](https://github.com/Project-Cepi/Sabre) - A customizable and simple server jar.
 - [BasicMinestomServer](https://github.com/Protonull/BasicMinestomServer) - Barebones extension-only server jar.
