@@ -28,6 +28,7 @@ Minestom is an open-source library that enables developers to create their own M
 
 *Reusable code that pairs very well with Minestom. If it offers extensions, it's side effect free to the limit of logging.*
 
+- [minestom-extensions](https://github.com/hollow-cube/minestom-ce-extensions) - A library for bringing extensions back to minestom
 - [Minestom173WorldGen](https://github.com/RealGatt/Minestom173WorldGen) - A Beta 1.7.3 world generator implementation.
 - [minestom-ca](https://github.com/GoldenStack/minestom-ca) - Implementing vanilla Minecraft with cellular automata.
 - [window](https://github.com/GoldenStack/window) - Useful API for Minestom inventories.
@@ -47,7 +48,7 @@ Minestom is an open-source library that enables developers to create their own M
 
 ## Extensions
 
-*Jars or libraries that integrate straight into Minestom. May also have programatic APIs or offer standalone versions.*
+*Jars or libraries that integrate straight into Minestom. May also have programatic APIs or offer standalone versions.Currently, minestom has removed extension,to add it back, see [minestom-extensions](https://github.com/hollow-cube/minestom-ce-extensions)*
 
 - [grakkit](https://github.com/grakkit/grakkit) - A modern JavaScript development environment for Minecraft.
 - [UnifiedMetrics](https://github.com/Cubxity/UnifiedMetrics/) - Cross-compatible fully-featured metrics collection agent.
